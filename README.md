@@ -50,6 +50,6 @@ print(net_income)
 ## Data Access
 
 * Refer to this [link](https://www.sec.gov/os/accessing-edgar-data).
-* All symbols can be obtained [here](ftp://ftp.nasdaqtrader.com/SymbolDirectory/)
+* All symbols can be obtained here: ftp://ftp.nasdaqtrader.com/SymbolDirectory/ (check the nasdaqlisted.txt file) 
 
 
